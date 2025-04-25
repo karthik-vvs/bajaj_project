@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bajaj_project/static/css/main.3ce7bc41.css",
+    "main.js": "/bajaj_project/static/js/main.77bf66de.js",
+    "index.html": "/bajaj_project/index.html",
+    "main.3ce7bc41.css.map": "/bajaj_project/static/css/main.3ce7bc41.css.map",
+    "main.77bf66de.js.map": "/bajaj_project/static/js/main.77bf66de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce7bc41.css",
+    "static/js/main.77bf66de.js"
+  ]
+}
